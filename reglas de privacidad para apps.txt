@@ -1,0 +1,7 @@
+El video de Nelson G. Osorio advierte que crear una aplicación con IA sin atender la privacidad de los usuarios podría traer problemas legales. Enumera cinco puntos:
+Tener una política de privacidad.
+Informar qué datos se recopilan.
+Declarar que se utiliza inteligencia artificial.
+Identificar a terceros que procesan datos, como servicios de analítica o pagos.
+Permitir que las personas soliciten borrar sus datos y su cuenta, y hacerlo efectivamente.
+El creador menciona posibles multas de cientos o miles de dólares por usuario, según el punto. No indica con claridad qué jurisdicción o normativa respalda esas cifras, así que conviene tomarlas como afirmaciones del video, no como asesoría legal verificada. Su conclusión es que hay que revisar cómo se gestionan los datos antes de lanzar una aplicación.
