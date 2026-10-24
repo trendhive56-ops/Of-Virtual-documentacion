@@ -1,0 +1,57 @@
+5. Workflow técnico
+Workflow A: Diagnóstico
+Entrada del usuario.
+
+Clasificación del tipo de negocio y etapa.
+
+Detección de objetivo principal.
+
+Identificación de datos disponibles.
+
+Generación de diagnóstico inicial.
+
+Si faltan datos críticos, solicitar solo los mínimos.
+
+Workflow B: Crisis recovery
+Revisar caja, margen, deuda, inventario y rotación.
+
+Detectar fugas y productos inmovilizados.
+
+Priorizar acciones de liquidez.
+
+Crear plan 30-60-90 días.
+
+Generar mensajes de negociación y control.
+
+Workflow C: Validation
+Definir problema, cliente, oferta y diferenciador.
+
+Generar hipótesis de valor.
+
+Diseñar pruebas de mercado.
+
+Crear MVP, landing o secuencia de validación.
+
+Medir señal de interés.
+
+Workflow D: Sales
+Clasificar leads.
+
+Generar mensajes personalizados.
+
+Crear guiones de venta.
+
+Sugerir follow-up y objeciones.
+
+Proponer automatización con CRM o WhatsApp.
+
+Workflow E: Marketing
+Crear contenido para redes.
+
+Redactar anuncios.
+
+Generar variaciones por audiencia.
+
+Optimizar CTA y formatos.
+
+Definir métricas y pruebas A/B.

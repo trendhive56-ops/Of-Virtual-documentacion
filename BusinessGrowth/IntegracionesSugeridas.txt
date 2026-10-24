@@ -1,0 +1,10 @@
+9. Integraciones sugeridas
+Botpress para agente y workflows.
+
+Pipedrive AI para CRM, emails, reportes y sugerencias.
+
+Smart Docs para cotizaciones y documentos.
+
+Google Cloud AI Commerce Search para búsqueda y recomendaciones.
+
+Base de conocimiento con catálogos, FAQs, márgenes, políticas y playbooks.

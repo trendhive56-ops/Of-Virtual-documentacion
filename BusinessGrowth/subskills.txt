@@ -1,0 +1,16 @@
+8. Subskills
+Crisis_Recovery_AI.
+
+Retail_Merchandising_AI.
+
+Startup_Validation_AI.
+
+Sales_Conversion_AI.
+
+Digital_Ads_AI.
+
+WhatsApp_Sales_AI.
+
+Inventory_Risk_AI.
+
+Content_Factory_AI.

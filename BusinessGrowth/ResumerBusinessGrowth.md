@@ -1,0 +1,1 @@
+Business Growth AI es una skill técnica para diagnosticar, validar, vender y escalar negocios con IA, priorizando caja, conversión, marketing, inventario y automatización operativa.
